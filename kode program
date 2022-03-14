@@ -104,7 +104,7 @@ public class DialogFrame extends javax.swing.JDialog {
          btnInputDialog = new javax.swing.JButton();
         String inputan = JOptionPane.showInputDialog("Silahkan Masukkan Angka!");
            
-        int bil = 0 ;
+        int bil = 1 ;
         
         if (bil%2==0){
             JOptionPane.showMessageDialog(this, " Yang Kamu Inputkan Adalah Bilangan Genap");
