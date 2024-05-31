@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T06:55:14.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ckEtlyhPINT7OjpzLKsT" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T07:24:47.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="AxiG2vvBPWbEIyXAs90q" version="24.4.10" type="github">
   <diagram name="Page-1" id="I4u7UgQ7ZcSbGge25PJT">
     <mxGraphModel dx="1280" dy="484" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fuMs2qYxezaAky1oHTTr-2" value="USER" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+        <mxCell id="fuMs2qYxezaAky1oHTTr-2" value="USERS" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
           <mxGeometry x="493" y="236" width="111" height="96" as="geometry" />
         </mxCell>
         <mxCell id="fuMs2qYxezaAky1oHTTr-3" value="Preposesing Data" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="-91" y="272" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fuMs2qYxezaAky1oHTTr-4" value="DATA SOURCE" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
-          <mxGeometry x="-65" y="140" width="68" height="68" as="geometry" />
+        <mxCell id="fuMs2qYxezaAky1oHTTr-4" value="DATA SOURCE" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="136" width="48" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fuMs2qYxezaAky1oHTTr-5" value="Vektorisasi&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="-82" y="400" width="102" height="53" as="geometry" />
@@ -40,9 +40,9 @@
         <mxCell id="fuMs2qYxezaAky1oHTTr-21" value="OUTPUT&lt;div&gt;JAWABAN&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="442.75" y="648.75" width="105.5" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="fuMs2qYxezaAky1oHTTr-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fuMs2qYxezaAky1oHTTr-4" target="fuMs2qYxezaAky1oHTTr-3">
+        <mxCell id="fuMs2qYxezaAky1oHTTr-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="fuMs2qYxezaAky1oHTTr-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="252" y="392" as="sourcePoint" />
+            <mxPoint x="-31" y="226" as="sourcePoint" />
             <mxPoint x="302" y="342" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -105,6 +105,12 @@
             <mxPoint x="15" y="673" as="sourcePoint" />
             <mxPoint x="154" y="673" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fuMs2qYxezaAky1oHTTr-38" value="DATA SOURCE" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="-7.5" y="146" width="49" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="fuMs2qYxezaAky1oHTTr-39" value="DATA SOURCE" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="-54.5" y="170" width="47" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
